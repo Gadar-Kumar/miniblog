@@ -4,7 +4,7 @@ import { Link,useNavigate } from 'react-router-dom'
 import { login } from '../store/authSlice'
 import Button from './Button'
 import Logo from './Logo'
-import Input from './input'
+import Input from './Input'
 import { useDispatch } from 'react-redux'
 import { useForm } from 'react-hook-form'
 
